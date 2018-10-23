@@ -1,0 +1,9 @@
+.flag{
+    width:500px;
+    height:250px;
+    background-color:darkblue;
+}
+.tree{
+    background-image: url("images/tree.png");
+    width:100px;
+}
